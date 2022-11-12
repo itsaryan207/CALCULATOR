@@ -1,0 +1,35 @@
+.text-center{
+    text-align:center;
+  }
+  .bg-red{
+    background:red;
+  }
+  .flex{
+    display:flex;
+  }
+  .flex-col{
+    flex-direction:column;
+    
+  }
+  .items-center{
+      align-items: center;
+  }
+  .gold{
+    background:gold;
+    color:white;
+  }
+  .black{
+    background:#343d46;
+    color:white;
+  }
+  .grey{
+    background:gray;
+    color:white;
+  }
+  body{
+    background:black;
+  }
+  .container{
+    margin:-9px;
+  }
+  
